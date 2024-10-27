@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'application/core/routes.dart';
-import 'resource/app_string.dart';
+import '../core/routes.dart';
+import '../../resource/app_string.dart';
 
 void main() {
   runApp(MaterialApp.router(

@@ -1,5 +1,5 @@
 import 'package:go_router/go_router.dart';
-import 'package:myapp/login.dart';
+import 'package:myapp/application/page/login.dart';
 
 final routers = GoRouter(
   initialLocation: '/login',
